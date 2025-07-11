@@ -139,7 +139,7 @@ mosaicplot(tab_2)
 # Please explain your reasoning.
 # Your answer:
 ################################################
-# End:                                        #
+# End:                                         #
 # Please upload your work as a .txt in Canvas. #
 ################################################
 
